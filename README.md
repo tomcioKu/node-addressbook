@@ -7,7 +7,7 @@ Sample programming task
 Installation
 ------------
 
-Use npm or make to install all depencies
+Use npm or make to install required dependencies
 
 Install via npm:
 
