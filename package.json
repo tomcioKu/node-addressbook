@@ -15,14 +15,16 @@
     "mocha": "*",
     "node-assertthat": "*"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tomcioKu/node-addressbook.git"
+  },
+  "author": {
+    "name": "Thomas Kurzok",
+    "email": "t.kurzok@gmx.de"
+  },
   "scripts": {
     "start": "node server.js",
     "test": "make test"
-  },
-  "maintainers": [
-    {
-      "name": "ThomasKurzok",
-      "email": "t.kurzok@gmx.de"
-    }
-  ]
+  }
 }
