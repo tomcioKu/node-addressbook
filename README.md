@@ -9,25 +9,21 @@ Installation
 
 Use npm or make to install all depencies
 
-### NPM
-
 Install via npm:
 
 ``` bash
 npm install
-
-### Make
-
+```
 Install via make:
 
 ``` bash
 make install
-
+```
 Install,test and start via make:
 
 ``` bash
 make all
-
+```
 
 Running Tests
 -------------
