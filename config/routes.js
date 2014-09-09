@@ -8,5 +8,5 @@
 module.exports = function routes() {
   this.root('question#all');
   this.match('questions/', { controller: 'question', action: 'all' });
-  this.match('question/:id', { controller: 'question', action: 'show' });
+  this.match('questions/:id', { controller: 'question', action: 'show' });
 }
