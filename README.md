@@ -1,13 +1,14 @@
 node-addressbook
 =================
 
-Fancy Node.js Addressbook. 
-Sample programming task
+**Sample programming task.**
+
+Fancy Node.js Addressbook based on MVC Framework [locomotive](www.locomotivejs.org). 
 
 Installation
 ------------
 
-Use npm or make to install required dependencies
+Use npm or make to install required dependencies.
 
 Install via npm:
 
