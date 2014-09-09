@@ -3,7 +3,7 @@ node-addressbook
 
 **Sample programming task.**
 
-Fancy Node.js Addressbook based on MVC Framework [locomotive](www.locomotivejs.org). 
+Fancy Node.js Addressbook based on MVC Framework [locomotive](http://www.locomotivejs.org). 
 
 Installation
 ------------
